@@ -1,0 +1,11 @@
+ul {
+  list-style: none;
+  
+}
+a{
+  margin: 10px;
+  text-decoration: none;
+}
+.btn{
+  background-color:#0dcaf0
+}
