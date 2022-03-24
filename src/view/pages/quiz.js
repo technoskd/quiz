@@ -47,7 +47,7 @@ const Quiz = () => {
   return (
     <>
       <section>
-        {JSON.stringify(sume)}
+        {/* {JSON.stringify(sume)} */}
         <div className='container'>
           <div className='row'>
             <div className='col ms-10px'>
